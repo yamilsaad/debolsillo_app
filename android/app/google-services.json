@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249426421880",
+    "project_id": "debolsillo-app",
+    "storage_bucket": "debolsillo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249426421880:android:3918b9c75281a87cf0e58d",
+        "android_client_info": {
+          "package_name": "com.example.debolsillo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgCg4z2HPAwh3o03mxRIaGAy7_SCJEYM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
